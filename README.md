@@ -1,1 +1,1 @@
-In questa repository carico file e notebook 
+In this repository you fill wind programs and materials used in my thesis work.
